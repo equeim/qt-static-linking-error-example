@@ -1,0 +1,10 @@
+{
+  "name": "qt-static-linking-error-example",
+  "version": "0",
+  "dependencies": [
+    {
+      "name": "qtbase",
+      "default-features": false
+    }
+  ]
+}
